@@ -1,3 +1,6 @@
 more stuff
 
-reviewing the push from remote github in my local 
+reviewing the push from remote Github in my local
+we are cloning
+remote to local
+commit the change

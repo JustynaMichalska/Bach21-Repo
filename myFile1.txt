@@ -1,3 +1,5 @@
-Adding from github new repo
+Adding from Github new repo
 Reviewing if pushed correctly
-more new stuff 
+more new stuff
+
+learning more each time
